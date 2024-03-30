@@ -22,8 +22,8 @@ author_image: "/assets/images/profile.jpg"
 
 paginate:	5
 
-url: "http://dongsubkim.github.io/mediator" # the base hostname & protocol for your site
-baseurl: ""
+url: "http://dongsubkim.github.io" # the base hostname & protocol for your site
+baseurl: "/CodeCraftersChronicle"
 #used to display twitter cards
 # twitter_handle: '@dirkfabisch'
 
